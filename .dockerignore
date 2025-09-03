@@ -1,0 +1,14 @@
+.vscode
+.cursor
+.idea
+
+.git
+
+.nuxt
+.output
+
+.DS_Store
+
+node_modules
+
+.env

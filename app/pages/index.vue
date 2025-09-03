@@ -1,6 +1,4 @@
-<template>
-  <!---->
-</template>
+<template>Rock Science</template>
 
 <script setup lang="ts">
 //
