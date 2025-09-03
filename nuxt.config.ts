@@ -3,6 +3,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
+  modules: ['@nuxt/image'],
   devtools: { enabled: true },
   devServer: {
     host: '0.0.0.0',
@@ -12,4 +13,7 @@ export default defineNuxtConfig({
     plugins: [tailwindcss()],
   },
   css: ['./app/app.css'],
+  image: {
+    format: ['webp', 'avif'],
+  },
 })
