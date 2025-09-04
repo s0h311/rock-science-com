@@ -1,5 +1,6 @@
 <template>
   <NavigationBar
+    class="mb-10"
     logoUrl="/notifyit-logo.png"
     logoAlt="Notify It logo"
     title="Notify It"
