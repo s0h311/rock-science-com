@@ -1,20 +1,27 @@
 {
   "name": "rock-science-com",
-  "type": "module",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "lint": "oxlint --type-aware --fix",
+    "fmt": "oxfmt"
   },
   "dependencies": {
+    "@nuxt/image": "2.0.0",
     "@tailwindcss/vite": "^4.2.1",
     "nuxt": "^4.3.1",
     "tailwindcss": "^4.2.1",
     "vue": "^3.5.28",
     "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.35.0",
+    "oxlint": "^1.50.0"
   },
   "packageManager": "pnpm@10.30.3"
 }

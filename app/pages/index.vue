@@ -1,7 +1,3 @@
-<template>
-  <h1>WHATS UP</h1>
-</template>
+<template></template>
 
-<script setup lang="ts">
-//
-</script>
+<script setup lang="ts"></script>
