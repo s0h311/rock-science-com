@@ -26,7 +26,8 @@
 useSeoMeta({
   title: 'Building Tech You Love | Hamburg',
   ogTitle: 'Rock Science | Building Tech You Love',
-  description: 'Rock Science builds what others overcomplicate. We create high-quality, efficient, and user-centric digital products that people love to use.',
+  description:
+    'Rock Science builds what others overcomplicate. We create high-quality, efficient, and user-centric digital products that people love to use.',
   ogDescription: 'We build what others overcomplicate. Building tech you love in Hamburg.',
   ogImage: '/rs-logo.webp',
   twitterCard: 'summary',
