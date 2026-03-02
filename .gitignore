@@ -1,6 +1,7 @@
 .vscode
 .idea
 .cursor
+.agents
 
 .output
 .nuxt
