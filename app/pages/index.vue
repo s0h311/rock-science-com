@@ -1,6 +1,6 @@
 <template>
   <div class="grid place-items-center gap-10">
-    <h1 class="text-4xl italic">
+    <h1 class="text-4xl italic text-center">
       <span class="font-serif">We build</span>
       what others overcomplicate.
     </h1>
@@ -29,10 +29,10 @@ useSeoMeta({
   description:
     'Rock Science builds what others overcomplicate. We create high-quality, efficient, and user-centric digital products that people love to use.',
   ogDescription: 'We build what others overcomplicate. Building tech you love in Hamburg.',
-  ogImage: '/rs-logo.webp',
+  ogImage: '/rs-logo-sky-1024x256.webp',
   twitterCard: 'summary',
   twitterTitle: 'Rock Science | Building Tech You Love',
   twitterDescription: 'We build what others overcomplicate. Building tech you love in Hamburg.',
-  twitterImage: '/rs-logo.webp',
+  twitterImage: '/rs-logo-sky-1024x256.webp',
 })
 </script>

@@ -1,9 +1,9 @@
 <template>
   <header>
     <NuxtImg
-      src="/rs-logo.webp"
-      width="70"
-      height="70"
+      src="/rs-logo-sky-1024x256.webp"
+      width="160"
+      height="40"
     />
   </header>
 </template>
