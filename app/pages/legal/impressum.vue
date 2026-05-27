@@ -3,13 +3,13 @@
     <h1>Impressum</h1>
     <br />
 
-    <h2>Angaben gemäß § 5 TMG</h2>
+    <h2>Angaben gemäß § 5 DDG</h2>
     <br />
 
     <p>
-      Rock Science
+      Soheil Nazari
       <br />
-      Inhaber: Soheil Nazari
+      Rock Science
       <br />
       Oldachstr. 8
       <br />
@@ -28,14 +28,10 @@
     <p><strong>Telefon:</strong>&nbsp;+49 176 42946108</p>
     <br />
 
-    <h3>Streitbeilegung</h3>
+    <h3>Umsatzsteuer</h3>
     <br />
 
-    <p>
-      Wir sind bemüht, etwaige Streitigkeiten im Zusammenhang mit unseren Dienstleistungen möglichst einvernehmlich zu
-      klären. Wir sind bereit, freiwillig an einem Streitbeilegungsverfahren vor einer anerkannten
-      Verbraucherschlichtungsstelle teilzunehmen.
-    </p>
+    <p>Kleinunternehmer gemäß § 19 UStG, keine Umsatzsteuer-Identifikationsnummer.</p>
   </div>
 </template>
 
