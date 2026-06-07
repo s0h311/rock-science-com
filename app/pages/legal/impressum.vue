@@ -7,6 +7,7 @@
     <br />
 
     <p>
+      <template v-if="source">{{ source }} ist ein Angebot von:<br /></template>
       Soheil Nazari
       <br />
       Rock Science
@@ -39,4 +40,8 @@
 useSeoMeta({
   title: 'Impressum',
 })
+
+const route = useRoute()
+
+const source = computed(() => route.query.source)
 </script>
