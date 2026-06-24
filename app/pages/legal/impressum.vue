@@ -8,7 +8,7 @@
 
     <p>
       <template v-if="source">{{ source }} ist ein Angebot von:<br /></template>
-      Soheil Nazari
+      Soheil Funk
       <br />
       Rock Science
       <br />
