@@ -8,7 +8,7 @@
 
     <p>
       <template v-if="source">{{ source }} ist ein Angebot von:<br /></template>
-      Soheil Funk
+      Liam Funk
       <br />
       Rock Science
       <br />
@@ -25,7 +25,7 @@
 
     <p><strong>E-Mail:</strong>&nbsp;hello@rock-science.com</p>
     <br />
-  
+
     <h3>Umsatzsteuer</h3>
     <br />
 
