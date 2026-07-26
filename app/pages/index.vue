@@ -17,7 +17,7 @@
         class="size-50"
       >
         <NuxtImg
-          class="rounded-2xl size-full object-contain"
+          class="size-full object-contain"
           :src="project.image"
         />
       </div>
@@ -41,11 +41,11 @@ useSeoMeta({
   description:
     'Rock Science builds what others overcomplicate. We create high-quality, efficient, and user-centric digital products that people love to use.',
   ogDescription: 'We build what others overcomplicate. Building tech you love in Hamburg.',
-  ogImage: '/rs-logo-sky-1024x256.webp',
+  ogImage: '/rs-logo-2-1024x256.webp',
   twitterCard: 'summary',
   twitterTitle: 'Rock Science | Building Tech You Love',
   twitterDescription: 'We build what others overcomplicate. Building tech you love in Hamburg.',
-  twitterImage: '/rs-logo-sky-1024x256.webp',
+  twitterImage: '/rs-logo-2-1024x256.webp',
 })
 
 const projects: {
@@ -56,7 +56,7 @@ const projects: {
   {
     name: 'tabley.de',
     url: 'https://tabley.de',
-    image: '/tabley-logo.webp',
+    image: '/tabley-logo-2-1024x1024.webp',
   },
   {
     name: 'eco-on.de',

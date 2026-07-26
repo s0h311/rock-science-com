@@ -1,7 +1,7 @@
 <template>
   <header>
     <NuxtImg
-      src="/rs-logo-sky-1024x256.webp"
+      src="/rs-logo-2-1024x256.webp"
       width="160"
       height="40"
     />
