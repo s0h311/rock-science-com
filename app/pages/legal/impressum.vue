@@ -24,6 +24,7 @@
     <br />
 
     <p><strong>E-Mail:</strong>&nbsp;hello@rock-science.com</p>
+    <p><strong>Telefon:</strong>&nbsp;+49 151 6271 2892</p>
     <br />
 
     <h3>Umsatzsteuer</h3>
