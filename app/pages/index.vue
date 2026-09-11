@@ -58,15 +58,5 @@ const projects: {
     url: 'https://tabley.de',
     image: '/tabley-logo-2-1024x1024.webp',
   },
-  {
-    name: 'eco-on.de',
-    url: 'https://eco-on.de',
-    image: '/eco-on-logo-1.png',
-  },
-  {
-    name: 'StatusLine',
-    url: 'https://statusline.rock-science.com',
-    image: null,
-  },
 ]
 </script>
