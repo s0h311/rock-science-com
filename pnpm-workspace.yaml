@@ -1,0 +1,9 @@
+allowBuilds:
+  esbuild: false
+supportedArchitectures:
+  os:
+    - linux
+    - darwin
+  cpu:
+    - arm64
+    - x64

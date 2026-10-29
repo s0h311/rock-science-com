@@ -1,0 +1,16 @@
+.vscode
+.idea
+
+node_modules
+.pnpm-store
+dist
+.nitro
+.output
+.tanstack
+.vitest*
+
+.DS_Store
+
+.matrix
+
+.env
