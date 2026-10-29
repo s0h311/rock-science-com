@@ -10,7 +10,8 @@
     "lint": "oxlint --fix",
     "gen:migration": "drizzle-kit generate",
     "migrate": "node --env-file=.env scripts/migrate.ts",
-    "matrix": "node --env-file .env /Users/soheil/projects/matrix/src/index.ts"
+    "matrix": "node --env-file .env /Users/soheil/projects/matrix/src/index.ts",
+    "sbx": "sbx run --name matrix-rock-science-com"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",

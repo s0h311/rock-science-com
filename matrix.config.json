@@ -10,5 +10,9 @@
     "lintCmd": "pnpm lint --format json",
     "testCmd": "pnpm test"
   },
-  "review": true
+  "review": true,
+  "agent": {
+    "model": "opus",
+    "effort": "high"
+  }
 }
