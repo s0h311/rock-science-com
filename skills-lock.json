@@ -91,6 +91,12 @@
       "skillPath": "skills/engineering/triage/SKILL.md",
       "computedHash": "a683e69163e23630f39c05a50fb9d83a3795a6a6fbd317357669e082cd43a158"
     },
+    "wayfinder": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/wayfinder/SKILL.md",
+      "computedHash": "22338d9356ef84430c5ca916f2632f226583d9d7366433f62bfde5b1b6781e9e"
+    },
     "writing-for-agents": {
       "source": "mattpocock/skills",
       "sourceType": "github",
